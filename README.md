@@ -1,13 +1,7 @@
 # Olá! Bem-vindo(a) ao meu repositório!
 <br>
 
-🔍 Possuo em meu portifólio projeto de exploração de dados e explicação do algorítmo Gradient Descent. Pretendo em breve publicar novos projetos sobre a área de dados. 🤖
 
-📈 Além disso, tenho um forte interesse na área de investimentos. 📈
-
-🌐 Caso queira entrar em contato:
-Linkedin: https://www.linkedin.com/in/osvaldokobayashi/
-E-mail: osvaldokobayashijunior@gmail.com
 
 ## Minha experiência:
 • 🌐 Tenho experiência com projetos em Python e suas bibliotecas para Ciência de Dados e Machine Learning<br>
