@@ -42,6 +42,6 @@ Possuo em meu portifólio projeto de exploração de dados e explicação do alg
 
 ### Contato:
 
-🌐 Caso queira entrar em contato:
-Linkedin: https://www.linkedin.com/in/osvaldokobayashi/
+🌐 Caso queira entrar em contato:<br>
+Linkedin: https://www.linkedin.com/in/osvaldokobayashi/<br>
 E-mail: osvaldokobayashijunior@gmail.com
