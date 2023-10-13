@@ -21,8 +21,8 @@ Olá! Meu nome é Osvaldo Kobayashi Junior, estudante de Engenharia Mecânica na
 
 • Estatística descritiva e inferencial aplicada à análise de dados
 
-• Excel e PowerBI
-<br>
+• Excel e PowerBI <br>
+
 ### Soft Skills:
 • Comunicativo
 
@@ -34,12 +34,11 @@ Olá! Meu nome é Osvaldo Kobayashi Junior, estudante de Engenharia Mecânica na
 
 • Aprendo muito rápido
 
-• Autodidata
-<br>
+• Autodidata<br>
 
 ### Projetos
 
-Possuo em meu portifólio projeto de exploração de dados e explicação do algorítmo Gradient Descent. Pretendo em breve publicar novos projetos sobre a área de dados.
+Possuo em meu portifólio projeto de exploração de dados e explicação do algorítmo Gradient Descent. Pretendo em breve publicar novos projetos sobre a área de dados.<br>
 
 ### Contato:
 
