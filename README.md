@@ -13,7 +13,7 @@
 Olá! Meu nome é Osvaldo Kobayashi Junior, estudante de Engenharia Mecânica na UNIFEI, apaixonado por matemática, dados e tecnologia. 💡<br>
 
 ### Hard Skills:
-• Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, flask)
+• Python (scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn)
 
 • SQL
 
